@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "46116205504",
+    "project_id": "rushikesh-my-news-app-flutter",
+    "storage_bucket": "rushikesh-my-news-app-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46116205504:android:743cea515aa80049a0ce25",
+        "android_client_info": {
+          "package_name": "com.example.news_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46116205504-gp39cvjb90deemkbeluvfpgn539c5tpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX5wb2jl2dOI-YAybzD53wrWhGuhj3N2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46116205504-gp39cvjb90deemkbeluvfpgn539c5tpd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "46116205504-2cd0jru0velci21mh3sijp212o1i2arn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.newsApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
